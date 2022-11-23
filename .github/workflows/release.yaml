@@ -2,7 +2,7 @@ name: Isar release
 
 on:
   push:
-    tags:
+    branches:
       - "*"
 
 jobs:
